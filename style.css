@@ -1,7 +1,7 @@
 /*Базовые настройки страницы*/
-	@import url("fonts/Euclid/stylesheet.css");
-	@import url("fonts/Gilroy/stylesheet.css");
-	@import url("fonts/Circe/stylesheet.css");
+	@import url("Euclid/stylesheet.css");
+	@import url("Gilroy/stylesheet.css");
+	@import url("Circe/stylesheet.css");
 	html{
 		scroll-behavior: smooth;
 		background: #E5E5E5;
